@@ -32,3 +32,5 @@ Através de **técnicas de processamento de dados**, o robô analisa informaçõ
 * **Análise de dados inerciais** para identificar variações de movimento.
 * Experiência em aplicações para **veículos robóticos**.
 ---
+
+---
