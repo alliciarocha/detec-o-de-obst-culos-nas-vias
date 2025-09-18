@@ -1,0 +1,30 @@
+--- Histórico de Modificações ---
+
+🔸 Versão 1.0
+- Recebe dados do acelerômetro e giroscópio.
+- Implementa técnica de Batch Write (gravação em lote).
+- Grava 10 linhas a cada 1 segundo.
+- Suporte a caracteres especiais no site.
+
+🔸 Versão 1.1
+- Adicionada nova `<div>` para controle do Logger.
+
+🔸 Versão 1.2
+- Melhorias visuais na interface web.
+
+🔸 Versão 1.3
+- Botão de download do Logger passa a abrir em nova aba.
+
+🔸 Versão 1.4
+- Redução do atraso nos comandos de controle do robô.
+- Comandos de movimentação funcionando corretamente.
+
+🔸 Versão 1.5
+- Adicionados controles por teclado: ↑ ↓ ← →.
+
+🔸 Versão 1.6
+- Botão de download do Logger agora realiza o download diretamente (sem redirecionamento).
+
+🔸 Novas Modificações
+- Layout atualizado (cards, espaçamento, tamanhos uniformes).
+- Adicionado botão de emergência (“Parar tudo”).
