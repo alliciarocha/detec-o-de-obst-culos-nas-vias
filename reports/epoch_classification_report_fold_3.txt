@@ -1,0 +1,781 @@
+Relatórios de Classificação por Época:
+
+[Epoca 1]
+              precision    recall  f1-score   support
+
+  quebramola     0.9138    0.3155    0.4690       168
+      buraco     0.0000    0.0000    0.0000        81
+ buracoMaior     0.3680    0.8440    0.5125       109
+  lombofaixa     0.4381    0.3594    0.3948       128
+   tartaruga     0.4000    0.8696    0.5479        69
+      normal     0.0000    0.0000    0.0000         8
+
+    accuracy                         0.4458       563
+   macro avg     0.3533    0.3981    0.3207       563
+weighted avg     0.4925    0.4458    0.3961       563
+
+
+[Epoca 2]
+              precision    recall  f1-score   support
+
+  quebramola     0.5926    0.8571    0.7007       168
+      buraco     0.7500    0.0370    0.0706        81
+ buracoMaior     0.5385    0.8349    0.6547       109
+  lombofaixa     0.5800    0.4531    0.5088       128
+   tartaruga     1.0000    0.6087    0.7568        69
+      normal     0.4000    0.2500    0.3077         8
+
+    accuracy                         0.6039       563
+   macro avg     0.6435    0.5068    0.4999       563
+weighted avg     0.6491    0.6039    0.5588       563
+
+
+[Epoca 3]
+              precision    recall  f1-score   support
+
+  quebramola     0.7473    0.8274    0.7853       168
+      buraco     0.3684    0.0864    0.1400        81
+ buracoMaior     0.5450    0.9450    0.6913       109
+  lombofaixa     0.7010    0.5312    0.6044       128
+   tartaruga     1.0000    0.5507    0.7103        69
+      normal     0.2059    0.8750    0.3333         8
+
+    accuracy                         0.6430       563
+   macro avg     0.5946    0.6360    0.5441       563
+weighted avg     0.6664    0.6430    0.6175       563
+
+
+[Epoca 4]
+              precision    recall  f1-score   support
+
+  quebramola     0.8421    0.4762    0.6084       168
+      buraco     0.6981    0.4568    0.5522        81
+ buracoMaior     0.6763    0.8624    0.7581       109
+  lombofaixa     0.5868    0.7656    0.6644       128
+   tartaruga     0.8525    0.7536    0.8000        69
+      normal     0.1458    0.8750    0.2500         8
+
+    accuracy                         0.6536       563
+   macro avg     0.6336    0.6983    0.6055       563
+weighted avg     0.7226    0.6536    0.6604       563
+
+
+[Epoca 5]
+              precision    recall  f1-score   support
+
+  quebramola     0.8800    0.3929    0.5432       168
+      buraco     0.4295    0.7901    0.5565        81
+ buracoMaior     0.0000    0.0000    0.0000       109
+  lombofaixa     0.3501    0.9219    0.5075       128
+   tartaruga     0.0000    0.0000    0.0000        69
+      normal     0.0000    0.0000    0.0000         8
+
+    accuracy                         0.4405       563
+   macro avg     0.2766    0.3508    0.2679       563
+weighted avg     0.4040    0.4405    0.3576       563
+
+
+[Epoca 6]
+              precision    recall  f1-score   support
+
+  quebramola     0.8207    0.7083    0.7604       168
+      buraco     0.6087    0.6914    0.6474        81
+ buracoMaior     0.7835    0.6972    0.7379       109
+  lombofaixa     0.5647    0.7500    0.6443       128
+   tartaruga     0.8462    0.3188    0.4632        69
+      normal     0.2121    0.8750    0.3415         8
+
+    accuracy                         0.6679       563
+   macro avg     0.6393    0.6735    0.5991       563
+weighted avg     0.7193    0.6679    0.6710       563
+
+
+[Epoca 7]
+              precision    recall  f1-score   support
+
+  quebramola     0.9326    0.4940    0.6459       168
+      buraco     0.6329    0.6173    0.6250        81
+ buracoMaior     0.7222    0.8349    0.7745       109
+  lombofaixa     0.5652    0.7109    0.6298       128
+   tartaruga     0.6824    0.8406    0.7532        69
+      normal     0.3043    0.8750    0.4516         8
+
+    accuracy                         0.6750       563
+   macro avg     0.6399    0.7288    0.6467       563
+weighted avg     0.7256    0.6750    0.6745       563
+
+
+[Epoca 8]
+              precision    recall  f1-score   support
+
+  quebramola     0.9106    0.6667    0.7698       168
+      buraco     0.6869    0.8395    0.7556        81
+ buracoMaior     0.8444    0.6972    0.7638       109
+  lombofaixa     0.6524    0.8359    0.7329       128
+   tartaruga     0.8485    0.8116    0.8296        69
+      normal     0.3333    0.8750    0.4828         8
+
+    accuracy                         0.7567       563
+   macro avg     0.7127    0.7877    0.7224       563
+weighted avg     0.7911    0.7567    0.7614       563
+
+
+[Epoca 9]
+              precision    recall  f1-score   support
+
+  quebramola     0.9263    0.5238    0.6692       168
+      buraco     0.5639    0.9259    0.7009        81
+ buracoMaior     0.8800    0.6055    0.7174       109
+  lombofaixa     0.6422    0.5469    0.5907       128
+   tartaruga     0.5728    0.8551    0.6860        69
+      normal     0.1667    1.0000    0.2857         8
+
+    accuracy                         0.6501       563
+   macro avg     0.6253    0.7429    0.6083       563
+weighted avg     0.7465    0.6501    0.6619       563
+
+
+[Epoca 10]
+              precision    recall  f1-score   support
+
+  quebramola     0.7609    0.8333    0.7955       168
+      buraco     0.6296    0.6296    0.6296        81
+ buracoMaior     0.8939    0.5413    0.6743       109
+  lombofaixa     0.8269    0.6719    0.7414       128
+   tartaruga     0.9483    0.7971    0.8661        69
+      normal     0.1143    1.0000    0.2051         8
+
+    accuracy                         0.7087       563
+   macro avg     0.6957    0.7455    0.6520       563
+weighted avg     0.7965    0.7087    0.7361       563
+
+
+[Epoca 11]
+              precision    recall  f1-score   support
+
+  quebramola     0.7544    0.7679    0.7611       168
+      buraco     0.4865    0.8889    0.6288        81
+ buracoMaior     0.8906    0.5229    0.6590       109
+  lombofaixa     0.6439    0.6641    0.6538       128
+   tartaruga     0.7857    0.3188    0.4536        69
+      normal     0.2000    0.5000    0.2857         8
+
+    accuracy                         0.6554       563
+   macro avg     0.6269    0.6104    0.5737       563
+weighted avg     0.7131    0.6554    0.6535       563
+
+
+[Epoca 12]
+              precision    recall  f1-score   support
+
+  quebramola     0.8544    0.8036    0.8282       168
+      buraco     0.6250    0.9259    0.7463        81
+ buracoMaior     1.0000    0.5505    0.7101       109
+  lombofaixa     0.8174    0.7344    0.7737       128
+   tartaruga     0.8387    0.7536    0.7939        69
+      normal     0.1667    1.0000    0.2857         8
+
+    accuracy                         0.7531       563
+   macro avg     0.7170    0.7947    0.6896       563
+weighted avg     0.8295    0.7531    0.7692       563
+
+
+[Epoca 13]
+              precision    recall  f1-score   support
+
+  quebramola     0.8947    0.7083    0.7907       168
+      buraco     0.6077    0.9753    0.7488        81
+ buracoMaior     0.9677    0.5505    0.7018       109
+  lombofaixa     0.7574    0.8047    0.7803       128
+   tartaruga     0.8333    0.8696    0.8511        69
+      normal     0.2667    1.0000    0.4211         8
+
+    accuracy                         0.7620       563
+   macro avg     0.7213    0.8181    0.7156       563
+weighted avg     0.8199    0.7620    0.7672       563
+
+
+[Epoca 14]
+              precision    recall  f1-score   support
+
+  quebramola     0.8462    0.6548    0.7383       168
+      buraco     0.7000    0.6914    0.6957        81
+ buracoMaior     0.7759    0.8257    0.8000       109
+  lombofaixa     0.7423    0.5625    0.6400       128
+   tartaruga     0.6122    0.8696    0.7186        69
+      normal     0.1905    1.0000    0.3200         8
+
+    accuracy                         0.7034       563
+   macro avg     0.6445    0.7673    0.6521       563
+weighted avg     0.7499    0.7034    0.7134       563
+
+
+[Epoca 15]
+              precision    recall  f1-score   support
+
+  quebramola     0.8896    0.8155    0.8509       168
+      buraco     0.7816    0.8395    0.8095        81
+ buracoMaior     0.8901    0.7431    0.8100       109
+  lombofaixa     0.7391    0.7969    0.7669       128
+   tartaruga     0.7407    0.8696    0.8000        69
+      normal     0.5833    0.8750    0.7000         8
+
+    accuracy                         0.8082       563
+   macro avg     0.7708    0.8233    0.7896       563
+weighted avg     0.8174    0.8082    0.8096       563
+
+
+[Epoca 16]
+              precision    recall  f1-score   support
+
+  quebramola     0.9302    0.7143    0.8081       168
+      buraco     0.6838    0.9877    0.8081        81
+ buracoMaior     1.0000    0.6606    0.7956       109
+  lombofaixa     0.6867    0.8047    0.7410       128
+   tartaruga     0.8485    0.8116    0.8296        69
+      normal     0.2759    1.0000    0.4324         8
+
+    accuracy                         0.7798       563
+   macro avg     0.7375    0.8298    0.7358       563
+weighted avg     0.8336    0.7798    0.7877       563
+
+
+[Epoca 17]
+              precision    recall  f1-score   support
+
+  quebramola     0.8261    0.9048    0.8636       168
+      buraco     0.5625    0.5556    0.5590        81
+ buracoMaior     0.9722    0.3211    0.4828       109
+  lombofaixa     0.8110    0.8047    0.8078       128
+   tartaruga     0.7662    0.8551    0.8082        69
+      normal     0.1186    0.8750    0.2090         8
+
+    accuracy                         0.7123       563
+   macro avg     0.6761    0.7194    0.6217       563
+weighted avg     0.7956    0.7123    0.7173       563
+
+
+[Epoca 18]
+              precision    recall  f1-score   support
+
+  quebramola     0.9286    0.5417    0.6842       168
+      buraco     0.4792    0.8519    0.6133        81
+ buracoMaior     0.4865    0.1651    0.2466       109
+  lombofaixa     0.6203    0.7656    0.6853       128
+   tartaruga     0.6456    0.7391    0.6892        69
+      normal     0.1702    1.0000    0.2909         8
+
+    accuracy                         0.5950       563
+   macro avg     0.5550    0.6772    0.5349       563
+weighted avg     0.6628    0.5950    0.5846       563
+
+
+[Epoca 19]
+              precision    recall  f1-score   support
+
+  quebramola     0.8611    0.7381    0.7949       168
+      buraco     0.5816    0.7037    0.6369        81
+ buracoMaior     0.5806    0.6606    0.6180       109
+  lombofaixa     0.6522    0.7031    0.6767       128
+   tartaruga     0.9167    0.3188    0.4731        69
+      normal     0.2286    1.0000    0.3721         8
+
+    accuracy                         0.6625       563
+   macro avg     0.6368    0.6874    0.5953       563
+weighted avg     0.7169    0.6625    0.6656       563
+
+
+[Epoca 20]
+              precision    recall  f1-score   support
+
+  quebramola     0.9275    0.7619    0.8366       168
+      buraco     0.7188    0.5679    0.6345        81
+ buracoMaior     0.6744    0.7982    0.7311       109
+  lombofaixa     0.6993    0.7812    0.7380       128
+   tartaruga     0.7733    0.8406    0.8056        69
+      normal     0.5000    0.8750    0.6364         8
+
+    accuracy                         0.7567       563
+   macro avg     0.7156    0.7708    0.7304       563
+weighted avg     0.7716    0.7567    0.7580       563
+
+
+[Epoca 21]
+              precision    recall  f1-score   support
+
+  quebramola     0.8889    0.7143    0.7921       168
+      buraco     0.6078    0.7654    0.6776        81
+ buracoMaior     0.7477    0.7339    0.7407       109
+  lombofaixa     0.7909    0.6797    0.7311       128
+   tartaruga     0.7763    0.8551    0.8138        69
+      normal     0.2424    1.0000    0.3902         8
+
+    accuracy                         0.7389       563
+   macro avg     0.6757    0.7914    0.6909       563
+weighted avg     0.7759    0.7389    0.7488       563
+
+
+[Epoca 22]
+              precision    recall  f1-score   support
+
+  quebramola     0.9286    0.6964    0.7959       168
+      buraco     0.7564    0.7284    0.7421        81
+ buracoMaior     0.7672    0.8165    0.7911       109
+  lombofaixa     0.7609    0.8203    0.7895       128
+   tartaruga     0.8451    0.8696    0.8571        69
+      normal     0.2353    1.0000    0.3810         8
+
+    accuracy                         0.7780       563
+   macro avg     0.7156    0.8219    0.7261       563
+weighted avg     0.8144    0.7780    0.7874       563
+
+
+[Epoca 23]
+              precision    recall  f1-score   support
+
+  quebramola     0.9437    0.7976    0.8645       168
+      buraco     0.8193    0.8395    0.8293        81
+ buracoMaior     0.8476    0.8165    0.8318       109
+  lombofaixa     0.7419    0.8984    0.8127       128
+   tartaruga     0.9483    0.7971    0.8661        69
+      normal     0.4000    1.0000    0.5714         8
+
+    accuracy                         0.8330       563
+   macro avg     0.7835    0.8582    0.7960       563
+weighted avg     0.8541    0.8330    0.8374       563
+
+
+[Epoca 24]
+              precision    recall  f1-score   support
+
+  quebramola     0.9211    0.8333    0.8750       168
+      buraco     0.7157    0.9012    0.7978        81
+ buracoMaior     0.8776    0.7890    0.8309       109
+  lombofaixa     0.9027    0.7969    0.8465       128
+   tartaruga     0.8551    0.8551    0.8551        69
+      normal     0.2759    1.0000    0.4324         8
+
+    accuracy                         0.8313       563
+   macro avg     0.7580    0.8626    0.7730       563
+weighted avg     0.8616    0.8313    0.8401       563
+
+
+[Epoca 25]
+              precision    recall  f1-score   support
+
+  quebramola     0.9441    0.9048    0.9240       168
+      buraco     0.8427    0.9259    0.8824        81
+ buracoMaior     0.9118    0.8532    0.8815       109
+  lombofaixa     0.8561    0.8828    0.8692       128
+   tartaruga     0.9219    0.8551    0.8872        69
+      normal     0.5333    1.0000    0.6957         8
+
+    accuracy                         0.8881       563
+   macro avg     0.8350    0.9036    0.8567       563
+weighted avg     0.8947    0.8881    0.8896       563
+
+
+[Epoca 26]
+              precision    recall  f1-score   support
+
+  quebramola     0.9036    0.8929    0.8982       168
+      buraco     0.7157    0.9012    0.7978        81
+ buracoMaior     0.8505    0.8349    0.8426       109
+  lombofaixa     0.9529    0.6328    0.7606       128
+   tartaruga     0.7625    0.8841    0.8188        69
+      normal     0.3478    1.0000    0.5161         8
+
+    accuracy                         0.8242       563
+   macro avg     0.7555    0.8576    0.7723       563
+weighted avg     0.8523    0.8242    0.8265       563
+
+
+[Epoca 27]
+              precision    recall  f1-score   support
+
+  quebramola     0.9497    0.8988    0.9235       168
+      buraco     0.8769    0.7037    0.7808        81
+ buracoMaior     0.7803    0.9450    0.8548       109
+  lombofaixa     0.9182    0.7891    0.8487       128
+   tartaruga     0.8378    0.8986    0.8671        69
+      normal     0.3478    1.0000    0.5161         8
+
+    accuracy                         0.8561       563
+   macro avg     0.7851    0.8725    0.7985       563
+weighted avg     0.8770    0.8561    0.8600       563
+
+
+[Epoca 28]
+              precision    recall  f1-score   support
+
+  quebramola     0.9695    0.9464    0.9578       168
+      buraco     0.9125    0.9012    0.9068        81
+ buracoMaior     0.9018    0.9266    0.9140       109
+  lombofaixa     0.9180    0.8750    0.8960       128
+   tartaruga     0.8857    0.8986    0.8921        69
+      normal     0.5333    1.0000    0.6957         8
+
+    accuracy                         0.9147       563
+   macro avg     0.8535    0.9246    0.8771       563
+weighted avg     0.9200    0.9147    0.9162       563
+
+
+[Epoca 29]
+              precision    recall  f1-score   support
+
+  quebramola     0.9808    0.9107    0.9444       168
+      buraco     0.9394    0.7654    0.8435        81
+ buracoMaior     0.8387    0.9541    0.8927       109
+  lombofaixa     0.8750    0.9297    0.9015       128
+   tartaruga     0.9242    0.8841    0.9037        69
+      normal     0.5333    1.0000    0.6957         8
+
+    accuracy                         0.9005       563
+   macro avg     0.8486    0.9073    0.8636       563
+weighted avg     0.9100    0.9005    0.9016       563
+
+
+[Epoca 30]
+              precision    recall  f1-score   support
+
+  quebramola     0.9632    0.7798    0.8618       168
+      buraco     0.6557    0.9877    0.7882        81
+ buracoMaior     0.9841    0.5688    0.7209       109
+  lombofaixa     0.7338    0.8828    0.8014       128
+   tartaruga     0.8116    0.8116    0.8116        69
+      normal     0.4211    1.0000    0.5926         8
+
+    accuracy                         0.7993       563
+   macro avg     0.7616    0.8384    0.7628       563
+weighted avg     0.8446    0.7993    0.8002       563
+
+
+[Epoca 31]
+              precision    recall  f1-score   support
+
+  quebramola     0.9359    0.8690    0.9012       168
+      buraco     0.8235    0.8642    0.8434        81
+ buracoMaior     0.9643    0.7431    0.8394       109
+  lombofaixa     0.7234    0.7969    0.7584       128
+   tartaruga     0.6753    0.7536    0.7123        69
+      normal     0.4000    1.0000    0.5714         8
+
+    accuracy                         0.8153       563
+   macro avg     0.7537    0.8378    0.7710       563
+weighted avg     0.8374    0.8153    0.8206       563
+
+
+[Epoca 32]
+              precision    recall  f1-score   support
+
+  quebramola     0.9571    0.9286    0.9426       168
+      buraco     0.7573    0.9630    0.8478        81
+ buracoMaior     0.9556    0.7890    0.8643       109
+  lombofaixa     0.8750    0.8203    0.8468       128
+   tartaruga     0.8060    0.7826    0.7941        69
+      normal     0.4000    1.0000    0.5714         8
+
+    accuracy                         0.8650       563
+   macro avg     0.7918    0.8806    0.8112       563
+weighted avg     0.8829    0.8650    0.8686       563
+
+
+[Epoca 33]
+              precision    recall  f1-score   support
+
+  quebramola     0.8564    0.9583    0.9045       168
+      buraco     0.6870    0.9753    0.8061        81
+ buracoMaior     0.9610    0.6789    0.7957       109
+  lombofaixa     0.8980    0.6875    0.7788       128
+   tartaruga     0.8636    0.8261    0.8444        69
+      normal     0.4211    1.0000    0.5926         8
+
+    accuracy                         0.8295       563
+   macro avg     0.7812    0.8544    0.7870       563
+weighted avg     0.8564    0.8295    0.8289       563
+
+
+[Epoca 34]
+              precision    recall  f1-score   support
+
+  quebramola     0.9573    0.9345    0.9458       168
+      buraco     0.8681    0.9753    0.9186        81
+ buracoMaior     0.9700    0.8899    0.9282       109
+  lombofaixa     0.9138    0.8281    0.8689       128
+   tartaruga     0.8472    0.8841    0.8652        69
+      normal     0.4000    1.0000    0.5714         8
+
+    accuracy                         0.9023       563
+   macro avg     0.8261    0.9187    0.8497       563
+weighted avg     0.9156    0.9023    0.9058       563
+
+
+[Epoca 35]
+              precision    recall  f1-score   support
+
+  quebramola     1.0000    0.7917    0.8837       168
+      buraco     0.9750    0.9630    0.9689        81
+ buracoMaior     0.9813    0.9633    0.9722       109
+  lombofaixa     0.7405    0.9141    0.8182       128
+   tartaruga     0.8356    0.8841    0.8592        69
+      normal     0.5833    0.8750    0.7000         8
+
+    accuracy                         0.8899       563
+   macro avg     0.8526    0.8985    0.8670       563
+weighted avg     0.9077    0.8899    0.8926       563
+
+
+[Epoca 36]
+              precision    recall  f1-score   support
+
+  quebramola     0.8581    0.7560    0.8038       168
+      buraco     0.4859    0.8519    0.6188        81
+ buracoMaior     0.8333    0.0459    0.0870       109
+  lombofaixa     0.7862    0.8906    0.8352       128
+   tartaruga     0.9500    0.8261    0.8837        69
+      normal     0.1290    1.0000    0.2286         8
+
+    accuracy                         0.6750       563
+   macro avg     0.6738    0.7284    0.5762       563
+weighted avg     0.7843    0.6750    0.6472       563
+
+
+[Epoca 37]
+              precision    recall  f1-score   support
+
+  quebramola     0.9481    0.8690    0.9068       168
+      buraco     0.7263    0.8519    0.7841        81
+ buracoMaior     0.8021    0.7064    0.7512       109
+  lombofaixa     0.7671    0.8750    0.8175       128
+   tartaruga     0.9500    0.8261    0.8837        69
+      normal     0.5833    0.8750    0.7000         8
+
+    accuracy                         0.8313       563
+   macro avg     0.7962    0.8339    0.8072       563
+weighted avg     0.8418    0.8313    0.8330       563
+
+
+[Epoca 38]
+              precision    recall  f1-score   support
+
+  quebramola     0.8209    0.9821    0.8943       168
+      buraco     0.7156    0.9630    0.8211        81
+ buracoMaior     0.9200    0.6330    0.7500       109
+  lombofaixa     0.9314    0.7422    0.8261       128
+   tartaruga     0.9524    0.8696    0.9091        69
+      normal     0.5385    0.8750    0.6667         8
+
+    accuracy                         0.8419       563
+   macro avg     0.8131    0.8441    0.8112       563
+weighted avg     0.8622    0.8419    0.8389       563
+
+
+[Epoca 39]
+              precision    recall  f1-score   support
+
+  quebramola     0.9746    0.6845    0.8042       168
+      buraco     0.7255    0.9136    0.8087        81
+ buracoMaior     0.8036    0.8257    0.8145       109
+  lombofaixa     0.9439    0.7891    0.8596       128
+   tartaruga     0.8615    0.8116    0.8358        69
+      normal     0.1356    1.0000    0.2388         8
+
+    accuracy                         0.7886       563
+   macro avg     0.7408    0.8374    0.7269       563
+weighted avg     0.8729    0.7886    0.8153       563
+
+
+[Epoca 40]
+              precision    recall  f1-score   support
+
+  quebramola     0.9535    0.9762    0.9647       168
+      buraco     0.8085    0.9383    0.8686        81
+ buracoMaior     0.9239    0.7798    0.8458       109
+  lombofaixa     0.9141    0.9141    0.9141       128
+   tartaruga     0.9516    0.8551    0.9008        69
+      normal     0.5333    1.0000    0.6957         8
+
+    accuracy                         0.9041       563
+   macro avg     0.8475    0.9106    0.8649       563
+weighted avg     0.9117    0.9041    0.9047       563
+
+
+[Epoca 41]
+              precision    recall  f1-score   support
+
+  quebramola     0.9755    0.9464    0.9607       168
+      buraco     0.9577    0.8395    0.8947        81
+ buracoMaior     0.8707    0.9266    0.8978       109
+  lombofaixa     0.8939    0.9219    0.9077       128
+   tartaruga     0.9242    0.8841    0.9037        69
+      normal     0.5333    1.0000    0.6957         8
+
+    accuracy                         0.9147       563
+   macro avg     0.8592    0.9197    0.8767       563
+weighted avg     0.9215    0.9147    0.9162       563
+
+
+[Epoca 42]
+              precision    recall  f1-score   support
+
+  quebramola     0.9759    0.9643    0.9701       168
+      buraco     0.9359    0.9012    0.9182        81
+ buracoMaior     0.8729    0.9450    0.9075       109
+  lombofaixa     0.9815    0.8281    0.8983       128
+   tartaruga     0.7901    0.9275    0.8533        69
+      normal     0.5833    0.8750    0.7000         8
+
+    accuracy                         0.9147       563
+   macro avg     0.8566    0.9069    0.8746       563
+weighted avg     0.9231    0.9147    0.9160       563
+
+
+[Epoca 43]
+              precision    recall  f1-score   support
+
+  quebramola     0.9871    0.9107    0.9474       168
+      buraco     0.9048    0.9383    0.9212        81
+ buracoMaior     0.8879    0.9450    0.9156       109
+  lombofaixa     0.9365    0.9219    0.9291       128
+   tartaruga     0.9841    0.8986    0.9394        69
+      normal     0.4211    1.0000    0.5926         8
+
+    accuracy                         0.9236       563
+   macro avg     0.8536    0.9357    0.8742       563
+weighted avg     0.9361    0.9236    0.9273       563
+
+
+[Epoca 44]
+              precision    recall  f1-score   support
+
+  quebramola     0.9755    0.9464    0.9607       168
+      buraco     0.9277    0.9506    0.9390        81
+ buracoMaior     0.9510    0.8899    0.9194       109
+  lombofaixa     0.8917    0.8359    0.8629       128
+   tartaruga     0.7564    0.8551    0.8027        69
+      normal     0.4706    1.0000    0.6400         8
+
+    accuracy                         0.9005       563
+   macro avg     0.8288    0.9130    0.8541       563
+weighted avg     0.9108    0.9005    0.9034       563
+
+
+[Epoca 45]
+              precision    recall  f1-score   support
+
+  quebramola     0.9873    0.9226    0.9538       168
+      buraco     0.9744    0.9383    0.9560        81
+ buracoMaior     0.9545    0.9633    0.9589       109
+  lombofaixa     0.8968    0.8828    0.8898       128
+   tartaruga     0.8182    0.9130    0.8630        69
+      normal     0.4667    0.8750    0.6087         8
+
+    accuracy                         0.9218       563
+   macro avg     0.8496    0.9158    0.8717       563
+weighted avg     0.9304    0.9218    0.9245       563
+
+
+[Epoca 46]
+              precision    recall  f1-score   support
+
+  quebramola     0.9111    0.9762    0.9425       168
+      buraco     0.9873    0.9630    0.9750        81
+ buracoMaior     0.9725    0.9725    0.9725       109
+  lombofaixa     0.9626    0.8047    0.8766       128
+   tartaruga     0.8750    0.9130    0.8936        69
+      normal     0.4375    0.8750    0.5833         8
+
+    accuracy                         0.9254       563
+   macro avg     0.8577    0.9174    0.8739       563
+weighted avg     0.9345    0.9254    0.9269       563
+
+
+[Epoca 47]
+              precision    recall  f1-score   support
+
+  quebramola     0.9627    0.9226    0.9422       168
+      buraco     0.9733    0.9012    0.9359        81
+ buracoMaior     0.8833    0.9725    0.9258       109
+  lombofaixa     0.9375    0.8203    0.8750       128
+   tartaruga     0.8289    0.9130    0.8690        69
+      normal     0.4211    1.0000    0.5926         8
+
+    accuracy                         0.9059       563
+   macro avg     0.8345    0.9216    0.8567       563
+weighted avg     0.9191    0.9059    0.9089       563
+
+
+[Epoca 48]
+              precision    recall  f1-score   support
+
+  quebramola     0.9819    0.9702    0.9760       168
+      buraco     0.9872    0.9506    0.9686        81
+ buracoMaior     0.9633    0.9633    0.9633       109
+  lombofaixa     0.9457    0.9531    0.9494       128
+   tartaruga     0.9538    0.8986    0.9254        69
+      normal     0.5000    1.0000    0.6667         8
+
+    accuracy                         0.9538       563
+   macro avg     0.8887    0.9560    0.9082       563
+weighted avg     0.9606    0.9538    0.9558       563
+
+
+[Epoca 49]
+              precision    recall  f1-score   support
+
+  quebramola     0.9755    0.9464    0.9607       168
+      buraco     0.9080    0.9753    0.9405        81
+ buracoMaior     0.9897    0.8807    0.9320       109
+  lombofaixa     0.8936    0.9844    0.9368       128
+   tartaruga     0.9839    0.8841    0.9313        69
+      normal     0.6154    1.0000    0.7619         8
+
+    accuracy                         0.9396       563
+   macro avg     0.8943    0.9452    0.9105       563
+weighted avg     0.9458    0.9396    0.9404       563
+
+
+[Epoca 50]
+              precision    recall  f1-score   support
+
+  quebramola     0.9879    0.9702    0.9790       168
+      buraco     0.9512    0.9630    0.9571        81
+ buracoMaior     0.9720    0.9541    0.9630       109
+  lombofaixa     0.9764    0.9688    0.9725       128
+   tartaruga     0.9851    0.9565    0.9706        69
+      normal     0.5333    1.0000    0.6957         8
+
+    accuracy                         0.9645       563
+   macro avg     0.9010    0.9688    0.9230       563
+weighted avg     0.9701    0.9645    0.9662       563
+
+
+[Epoca 51]
+              precision    recall  f1-score   support
+
+  quebramola     0.9879    0.9702    0.9790       168
+      buraco     0.9625    0.9506    0.9565        81
+ buracoMaior     0.9904    0.9450    0.9671       109
+  lombofaixa     0.9621    0.9922    0.9769       128
+   tartaruga     0.9701    0.9420    0.9559        69
+      normal     0.5333    1.0000    0.6957         8
+
+    accuracy                         0.9645       563
+   macro avg     0.9011    0.9667    0.9218       563
+weighted avg     0.9702    0.9645    0.9661       563
+
+
+[Epoca 52]
+              precision    recall  f1-score   support
+
+  quebramola     0.9939    0.9643    0.9789       168
+      buraco     0.9873    0.9630    0.9750        81
+ buracoMaior     0.9636    0.9725    0.9680       109
+  lombofaixa     0.9474    0.9844    0.9655       128
+   tartaruga     0.9846    0.9275    0.9552        69
+      normal     0.6154    1.0000    0.7619         8
+
+    accuracy                         0.9663       563
+   macro avg     0.9154    0.9686    0.9341       563
+weighted avg     0.9700    0.9663    0.9672       563
+
